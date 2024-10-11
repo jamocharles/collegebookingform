@@ -1,0 +1,9 @@
+<!-- Place this tag where you want the booking button and form to render. -->
+
+<gigwell-booking-form
+  open-on-load="true"
+  agency-id="760890"
+  settings="default"
+></gigwell-booking-form>
+
+<script type="text/javascript" src="https://connect.gigwell.com/booknow/booknow.js" crossorigin="*" async="true"></script>
